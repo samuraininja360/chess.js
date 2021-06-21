@@ -1,2 +1,2 @@
-# chess.js
+# Chess JS
 A simple chess engine, simulator and theory database...
